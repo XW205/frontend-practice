@@ -1,5 +1,0 @@
-git practice
-
-12345678
-
-Hello World
